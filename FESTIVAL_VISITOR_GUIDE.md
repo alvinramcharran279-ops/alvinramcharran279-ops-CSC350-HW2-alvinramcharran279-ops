@@ -32,17 +32,17 @@
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Park in the Meadowbrook Commons paid lot. visitors pay for their own parking.
+- Entrance or meeting location: Front Entrance of meadowbrook commons
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. A wheelchair entrance is located on the west side of the venue.
+2. Service and guide dogs are welcome throughout the festival grounds.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Do not leave your bags unattended and remember that tickets are non-refundable.
 
 ## GitHub Verification
 
@@ -52,7 +52,7 @@
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
+| Personalized guide | [7accf7b] | `docs: personalize festival visitor guide` |
 | Visitor access information | [ID] | `docs: add visitor access information` |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
