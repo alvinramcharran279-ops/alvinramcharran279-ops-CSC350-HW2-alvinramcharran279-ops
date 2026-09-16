@@ -2,33 +2,33 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Alvin Ramcharran
+- Course and section: CSC350 25081-LEC
+- Date: 9/15/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch:  main
+- Personal Homework 2 GitHub URL:(https://github.com/alvinramcharran279-ops/CSC350-HW2-alvinramcharran279-ops)
+- Starting `git status`: On branch main, nothing to commit, working tree clean
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: NY Beer Festival
+- Location: Meadowbrook Commons, Kingston, NY
+- Intended audience: Adults 21 and over
+- Theme:  A place to taste beers from all around the world.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   The saved change lives only in my working directory on my computer.
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   No, it has not been staged or committed yet. it is only an unstaged change.
 
 ## Arrival Information
 
