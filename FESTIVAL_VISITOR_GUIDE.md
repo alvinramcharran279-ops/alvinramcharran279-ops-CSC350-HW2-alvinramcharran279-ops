@@ -46,7 +46,7 @@ Do not leave your bags unattended and remember that tickets are non-refundable.
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+   Verified on GitHub by Alvin Ramcharran.
 
 ## Commit Evidence
 
