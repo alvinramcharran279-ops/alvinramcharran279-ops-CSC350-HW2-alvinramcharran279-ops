@@ -53,29 +53,29 @@ Do not leave your bags unattended and remember that tickets are non-refundable.
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
 | Personalized guide | [7accf7b] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| Visitor access information | [f439ad7] | `docs: add visitor access information` |
+| GitHub verification | [2e2cb41] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   Saving a file only updates it in my working directory, while committing records a permanent snapshot of the staged changes in my local repository's history.
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   git diff shows changes that are not staged yet, while git diff --staged shows the staged changes that will be included in the next commit.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   The sentence was committed on GitHub, so my local repository was one commit behind until git pull downloaded that commit and updated my local file.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   the -u enabeled branch tracking so i didn't have to specify origin main every time.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   git status tells me that i'm up to date with main and shows a clean working tree, and the newest commit in git log matches the one on github.
 
